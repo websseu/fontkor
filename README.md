@@ -4,7 +4,7 @@
 특히 웹사이트나 다양한 디자인 프로젝트에서 한글 폰트를 적절히 사용하면, 텍스트의 가독성을 높이고 감각적인 느낌을 더할 수 있어요.
 오늘은 여러분께 한국 폰트를 소개해 드릴께요!
 
-<a href="https://fontkor.github.io/fontkor/" target="_blank">[https://fontkor.github.io/fontkor/]</a>
+<a href="https://websseu.github.io/fontkor/" target="_blank">[https://fontkor.github.io/fontkor/]</a>
 
 Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping the design and mood of text. Especially in websites and various design projects, using Korean fonts properly can enhance readability and add a touch of style. Today, I’m excited to introduce you to Korean fonts!
 
@@ -16,14 +16,14 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 ```html
 <link
   rel="stylesheet"
-  href="https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css"
+  href="https://websseu.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css"
 />
 ```
 
 링크 방식을 사용할 때도 마찬가지 입니다.
 
 ```css
-@import url("https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css");
+@import url("https://websseu.github.io/fontkor/woff2/[폰트이름]/[폰트이름].css");
 ```
 
 그리고 원하는 부분에 선언하시면 됩니다.
@@ -44,18 +44,18 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 필요한 두께만 설정하고 싶다면 다음과 같습니다. 아래의 100은 폰트 두께를 말합니다.
 
 ```css
-@import url("https://fontkor.github.io/fontkor/woff2/[폰트이름]/[폰트이름][100].css");
+@import url("https://websseu.github.io/fontkor/woff2/[폰트이름]/[폰트이름][100].css");
 ```
 
 ```css
 /* sample */
-@import url("https://fontkor.github.io/fontkor/woff2/fonts.css"); /* 모든 폰트를 적용할 수 있음. 테스트용 */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri.css"); /* 마루부리 폰트를 적용함[200, 300, 400, 600, 700] */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri200.css"); /* 마루부리 폰트 두께 200만 적용 */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri300.css"); /* 마루부리 폰트 두께 300만 적용 */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri400.css"); /* 마루부리 폰트 두께 400만 적용 */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri600.css"); /* 마루부리 폰트 두께 600만 적용 */
-@import url("https://fontkor.github.io/fontkor/woff2/MaruBuri/MaruBuri700.css"); /* 마루부리 폰트 두께 700만 적용 */
+@import url("https://websseu.github.io/fontkor/woff2/fonts.css"); /* 모든 폰트를 적용할 수 있음. 테스트용 */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri.css"); /* 마루부리 폰트를 적용함[200, 300, 400, 600, 700] */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri200.css"); /* 마루부리 폰트 두께 200만 적용 */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri300.css"); /* 마루부리 폰트 두께 300만 적용 */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri400.css"); /* 마루부리 폰트 두께 400만 적용 */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri600.css"); /* 마루부리 폰트 두께 600만 적용 */
+@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri700.css"); /* 마루부리 폰트 두께 700만 적용 */
 ```
 
 ## 폰트 종류
