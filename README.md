@@ -6,6 +6,18 @@
 
 Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping the design and mood of text. Especially in websites and various design projects, using Korean fonts properly can enhance readability and add a touch of style. Today, I’m excited to introduce you to Korean fonts!
 
+## 모든 폰트 테스트 적용 방법
+모든 폰트는 테스트용으로 사이트에 설정할 수 있습니다. 용량이 클 수 있으므로 실제 사이트에 적용하기보다는 테스트용으로 사용하는 것을 추천합니다.
+```
+@import url("https://websseu.github.io/fontkor/woff2/fontkor.css");
+
+<link
+  rel="stylesheet"
+  href="https://websseu.github.io/fontkor/woff2/fontkor.css"
+/>
+```
+
+
 ## 폰트 적용 방법
 
 폰트를 적용하는 방식은 2가지 방식이 있습니다.
@@ -47,7 +59,7 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 
 ```css
 /* sample */
-@import url("https://websseu.github.io/fontkor/woff2/fonts.css"); /* 모든 폰트를 적용할 수 있음. 테스트용 */
+@import url("https://websseu.github.io/fontkor/woff2/fontkor.css"); /* 모든 폰트를 적용할 수 있음. 테스트용 */
 @import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri.css"); /* 마루부리 폰트를 적용함[200, 300, 400, 600, 700] */
 @import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri200.css"); /* 마루부리 폰트 두께 200만 적용 */
 @import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri300.css"); /* 마루부리 폰트 두께 300만 적용 */
