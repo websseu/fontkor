@@ -8,9 +8,10 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 
 ## 모든 폰트 테스트 적용 방법
 모든 폰트는 테스트용으로 사이트에 설정할 수 있습니다. 용량이 클 수 있으므로 실제 사이트에 적용하기보다는 테스트용으로 사용하는 것을 추천합니다.
-```html
+```css
 @import url("https://websseu.github.io/fontkor/woff2/fontkor.css");
-
+```
+```html
 <link
   rel="stylesheet"
   href="https://websseu.github.io/fontkor/woff2/fontkor.css"
