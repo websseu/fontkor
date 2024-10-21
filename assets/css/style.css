@@ -1,0 +1,141 @@
+/* header */
+#header {
+  position: fixed;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+#header a {
+  color: #d9f99d;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* main */
+#main {
+  min-height: 100vh;
+  background-color: #000;
+  padding-top: 53px;
+}
+
+/* search */
+#search {
+  height: 300px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+#search::before {
+  content: "";
+  background: url(../img/search_bg.svg) no-repeat center 10px / cover;
+  width: 10%;
+  height: 200px;
+}
+#search::after {
+  content: "";
+  background: url(../img/search_bg.svg) no-repeat center 10px / cover;
+  transform: rotate(180deg);
+  width: 10%;
+  height: 200px;
+}
+#search h1 {
+  padding: 10px 30px;
+}
+
+/* contents */
+#contents {
+  width: 100%;
+}
+
+/* style1 : 가로형 스타일 */
+#contents.style1 {
+  position: relative;
+}
+
+.font__list {
+  border-top: 1px solid #303030;
+}
+.font__list > div {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  height: 100%;
+  color: #fff;
+  padding: 20px 2%;
+  border-bottom: 1px solid #303030;
+}
+.font__list > div > .font__title {
+  font-size: 36px;
+  line-height: 1;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+.font__list > div > .font__title span:nth-child(1){
+  font-size: 12px;
+  line-height: 2;
+  color: #535353;
+  font-family: 'Poppins';
+}
+.font__list > div > .font__license {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  color: #bebebe;
+}
+.font__list > div > .font__license span:nth-child(1){
+  font-size: 12px;
+  line-height: 2;
+  color: #535353;
+  font-family: 'Poppins';
+}
+
+.font__list > div > .font__tags {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.font__list > div > .font__tags > span {
+  font-size: 12px;
+  line-height: 2;
+  color: #535353;
+  font-family: 'Poppins';
+}
+.font__list > div > .font__tags .tag span {
+  border: 1px solid #535353;
+  color: #7d7d7d;
+  border-radius: 50px;
+  padding: 1px 10px;
+  font-size: 12px;
+  font-family: inherit;
+  background-color: #131313;
+}
+.font__list > div > .font__tags .tag span:hover {
+  background-color: #636363;
+  color: #fff;
+  cursor: pointer;
+  border-color: transparent;
+}
+
+.font__list > div > .font__weight {
+  display: flex;
+  flex-direction: column;
+  color: #717171
+}
+.font__list > div > .font__weight:hover {
+  color: #fff;
+}
+.font__list > div > .font__weight > span:nth-child(1) {
+  font-size: 12px;
+  line-height: 2;
+  color: #434343;
+  font-family: 'Poppins';
+}
+.font__list > div > .font__weight .weight span.active {
+  color: #fff;
+}
