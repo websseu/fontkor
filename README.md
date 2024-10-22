@@ -70,49 +70,33 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 
 ## 폰트 종류
 
-나눔고딕(NanumGothic) [300, 400, 700, 800]  
-나눔고딕에코(NanumGothicEco) [400, 700, 800]  
-나눔명조(NanumMyeongjo) [400, 700, 800]  
-나눔명조에코(NanumMyeongjoEco) [400, 700, 800]  
-나눔명조옛한글(NanumMyeongjoYetHangul) [400]  
-나눔바른고딕(NanumBarunGothic) [200, 300, 400, 700]  
-나눔바른고딕옛한글(NanumBarunGothicYetHangul) [400]  
-나눔바른펜(NanumBarunpen) [400, 700]  
-나눔손글씨붓(NanumBrush) [400]  
-나눔손글씨펜(NanumPen) [400]  
-나눔스퀘어(NanumSquare) [300, 400, 700, 800]  
-나눔스퀘어라운드(NanumSquareRound) [300, 400, 700, 800]  
-나눔스퀘어네오(NanumSquareNeo) [300, 400, 700, 800, 900]  
-D2coding(D2Coding) [400, 700]  
-마루부리(MaruBuri) [200, 300, 400, 600, 700]
-
-D2Coding /_ D2Coding _/
-MaruBuri /_ 마루부리 _/
-NanumBarunGothic /_ 나눔바른고딕 _/
-NanumBarunGothicYetHangul /_ 나눔바른고딕옛한글 _/
-NanumBarunpen /_ 나눔바른펜 _/
-NanumBrush /_ 나눔손글씨붓 _/
-NanumGothic /_ 나눔고딕 _/
-NanumGothicEco /_ 나눔고딕에코 _/
-NanumMyeongjo /_ 나눔명조 _/
-NanumMyeongjoEco /_ 나눔명조에코 _/
-NanumMyeongjoYetHangul /_ 나눔명조옛한글 _/
-NanumPen /_ 나눔손글씨펜 _/
-NanumSquare /_ 나눔스퀘어 _/
-NanumSquareNeo /_ 나눔스퀘어네오 _/
-NanumSquareRound /_ 나눔스퀘어라운드 _/
-
-BMKkubulim /_ 배민 꾸불림체 _/
-BMEuljiroOraeorae /_ 배민 을지로오래오래체 _/
-BMEuljiro10yearslater /_ 배민 을지로10년후체 _/
-BMEuljiro /_ 배민 을지로체 _/
-BMHanNaPro /_ 배민 한나체 Pro _/
-BMHanNaAir /_ 배민 한나체 Air _/
-BMKirangHaerang /_ 배민 기랑해랑체 _/
-BMYeonSung /_ 배민 연성체 _/
-BMDohYeon /_ 배민 도현체 _/
-BMHanNa11 /_ 배민 한나는열한살체 _/
-BMJua /_ 배민 주아체 _/
+나눔고딕 (NanumGothic) [300, 400, 700, 800]  
+나눔고딕에코 (NanumGothicEco) [400, 700, 800]  
+나눔명조 (NanumMyeongjo) [400, 700, 800]  
+나눔명조에코 (NanumMyeongjoEco) [400, 700, 800]  
+나눔명조옛한글 (NanumMyeongjoYetHangul) [400]  
+나눔바른고딕 (NanumBarunGothic) [200, 300, 400, 700]  
+나눔바른고딕옛한글 (NanumBarunGothicYetHangul) [400]  
+나눔바른펜 (NanumBarunpen) [400, 700]  
+나눔손글씨붓 (NanumBrush) [400]  
+나눔손글씨펜 (NanumPen) [400]  
+나눔스퀘어 (NanumSquare) [300, 400, 700, 800]  
+나눔스퀘어라운드 (NanumSquareRound) [300, 400, 700, 800]  
+나눔스퀘어네오 (NanumSquareNeo) [300, 400, 700, 800, 900]  
+D2coding (D2Coding) [400, 700]  
+마루부리 (MaruBuri) [200, 300, 400, 600, 700]
+<br>
+BMKkubulim (배민 꾸불림체) [400]  
+BMEuljiroOraeorae (배민 을지로오래오래체) [400]  
+BMEuljiro10yearslater (배민 을지로10년후체) [400]  
+BMEuljiro (배민 을지로체) [400]  
+BMHanNaPro (배민 한나체 Pro) [400]  
+BMHanNaAir (배민 한나체 Air) [400]  
+BMKirangHaerang (배민 기랑해랑체) [400]  
+BMYeonSung (배민 연성체) [400]  
+BMDohYeon (배민 도현체) [400]  
+BMHanNa11 (배민 한나는열한살체) [400]  
+BMJua (배민 주아체) [400]
 
 ## 폰트 두께
 
