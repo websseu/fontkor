@@ -7,17 +7,16 @@
 Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping the design and mood of text. Especially in websites and various design projects, using Korean fonts properly can enhance readability and add a touch of style. Today, I’m excited to introduce you to Korean fonts!
 
 ## 모든 폰트 테스트 적용 방법
+
 모든 폰트는 테스트용으로 사이트에 설정할 수 있습니다. 용량이 클 수 있으므로 실제 사이트에 적용하기보다는 테스트용으로 사용하는 것을 추천합니다.
+
 ```css
 @import url("https://websseu.github.io/fontkor/fontkor.css");
 ```
-```html
-<link
-  rel="stylesheet"
-  href="https://websseu.github.io/fontkor/fontkor.css"
-/>
-```
 
+```html
+<link rel="stylesheet" href="https://websseu.github.io/fontkor/fontkor.css" />
+```
 
 ## 폰트 적용 방법
 
@@ -86,6 +85,34 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 나눔스퀘어네오(NanumSquareNeo) [300, 400, 700, 800, 900]  
 D2coding(D2Coding) [400, 700]  
 마루부리(MaruBuri) [200, 300, 400, 600, 700]
+
+D2Coding /_ D2Coding _/
+MaruBuri /_ 마루부리 _/
+NanumBarunGothic /_ 나눔바른고딕 _/
+NanumBarunGothicYetHangul /_ 나눔바른고딕옛한글 _/
+NanumBarunpen /_ 나눔바른펜 _/
+NanumBrush /_ 나눔손글씨붓 _/
+NanumGothic /_ 나눔고딕 _/
+NanumGothicEco /_ 나눔고딕에코 _/
+NanumMyeongjo /_ 나눔명조 _/
+NanumMyeongjoEco /_ 나눔명조에코 _/
+NanumMyeongjoYetHangul /_ 나눔명조옛한글 _/
+NanumPen /_ 나눔손글씨펜 _/
+NanumSquare /_ 나눔스퀘어 _/
+NanumSquareNeo /_ 나눔스퀘어네오 _/
+NanumSquareRound /_ 나눔스퀘어라운드 _/
+
+BMKkubulim /_ 배민 꾸불림체 _/
+BMEuljiroOraeorae /_ 배민 을지로오래오래체 _/
+BMEuljiro10yearslater /_ 배민 을지로10년후체 _/
+BMEuljiro /_ 배민 을지로체 _/
+BMHanNaPro /_ 배민 한나체 Pro _/
+BMHanNaAir /_ 배민 한나체 Air _/
+BMKirangHaerang /_ 배민 기랑해랑체 _/
+BMYeonSung /_ 배민 연성체 _/
+BMDohYeon /_ 배민 도현체 _/
+BMHanNa11 /_ 배민 한나는열한살체 _/
+BMJua /_ 배민 주아체 _/
 
 ## 폰트 두께
 
