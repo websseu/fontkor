@@ -1,27 +1,27 @@
-@import url("https://websseu.github.io/fontkor/woff2/D2Coding/D2Coding.css"); /* D2Coding */
-@import url("https://websseu.github.io/fontkor/woff2/MaruBuri/MaruBuri.css"); /* 마루부리 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumBarunGothic/NanumBarunGothic.css"); /* 나눔바른고딕 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumBarunGothicYetHangul/NanumBarunGothicYetHangul.css"); /* 나눔바른고딕옛한글 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumBarunpen/NanumBarunpen.css"); /* 나눔바른펜 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumBrush/NanumBrush.css"); /* 나눔손글씨붓 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumGothic/NanumGothic.css"); /* 나눔고딕 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumGothicEco/NanumGothicEco.css"); /* 나눔고딕에코 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumMyeongjo/NanumMyeongjo.css"); /* 나눔명조 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumMyeongjoEco/NanumMyeongjoEco.css"); /* 나눔명조에코 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumMyeongjoYetHangul/NanumMyeongjoYetHangul.css"); /* 나눔명조옛한글 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumPen/NanumPen.css"); /* 나눔손글씨펜 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumSquare/NanumSquare.css"); /* 나눔스퀘어 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumSquareNeo/NanumSquareNeo.css"); /* 나눔스퀘어네오 */
-@import url("https://websseu.github.io/fontkor/woff2/NanumSquareRound/NanumSquareRound.css"); /* 나눔스퀘어라운드 */
+@import url("https://websseu.github.io/fontkor/D2Coding/D2Coding.css"); /* D2Coding */
+@import url("https://websseu.github.io/fontkor/MaruBuri/MaruBuri.css"); /* 마루부리 */
+@import url("https://websseu.github.io/fontkor/NanumBarunGothic/NanumBarunGothic.css"); /* 나눔바른고딕 */
+@import url("https://websseu.github.io/fontkor/NanumBarunGothicYetHangul/NanumBarunGothicYetHangul.css"); /* 나눔바른고딕옛한글 */
+@import url("https://websseu.github.io/fontkor/NanumBarunpen/NanumBarunpen.css"); /* 나눔바른펜 */
+@import url("https://websseu.github.io/fontkor/NanumBrush/NanumBrush.css"); /* 나눔손글씨붓 */
+@import url("https://websseu.github.io/fontkor/NanumGothic/NanumGothic.css"); /* 나눔고딕 */
+@import url("https://websseu.github.io/fontkor/NanumGothicEco/NanumGothicEco.css"); /* 나눔고딕에코 */
+@import url("https://websseu.github.io/fontkor/NanumMyeongjo/NanumMyeongjo.css"); /* 나눔명조 */
+@import url("https://websseu.github.io/fontkor/NanumMyeongjoEco/NanumMyeongjoEco.css"); /* 나눔명조에코 */
+@import url("https://websseu.github.io/fontkor/NanumMyeongjoYetHangul/NanumMyeongjoYetHangul.css"); /* 나눔명조옛한글 */
+@import url("https://websseu.github.io/fontkor/NanumPen/NanumPen.css"); /* 나눔손글씨펜 */
+@import url("https://websseu.github.io/fontkor/NanumSquare/NanumSquare.css"); /* 나눔스퀘어 */
+@import url("https://websseu.github.io/fontkor/NanumSquareNeo/NanumSquareNeo.css"); /* 나눔스퀘어네오 */
+@import url("https://websseu.github.io/fontkor/NanumSquareRound/NanumSquareRound.css"); /* 나눔스퀘어라운드 */
 
-@import url("https://websseu.github.io/fontkor/woff2/BMKkubulim/BMKkubulim.css"); /* 배민 꾸불림체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMEuljiroOraeorae/BMEuljiroOraeorae.css"); /* 배민 을지로오래오래체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMEuljiro10yearslater/BMEuljiro10yearslater.css"); /* 배민 을지로10년후체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMEuljiro/BMEuljiro.css"); /* 배민 을지로체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMHanNaPro/BMHanNaPro.css"); /* 배민 한나체 Pro */
-@import url("https://websseu.github.io/fontkor/woff2/BMHanNaAir/BMHanNaAir.css"); /* 배민 한나체 Air */
-@import url("https://websseu.github.io/fontkor/woff2/BMKirangHaerang/BMKirangHaerang.css"); /* 배민 기랑해랑체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMYeonSung/BMYeonSung.css"); /* 배민 연성체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMDohYeon/BMDohYeon.css"); /* 배민 도현체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMHanNa11/BMHanNa11.css"); /* 배민 한나는열한살체 */
-@import url("https://websseu.github.io/fontkor/woff2/BMJua/BMJua.css"); /* 배민 주아체 */
+@import url("https://websseu.github.io/fontkor/BMKkubulim/BMKkubulim.css"); /* 배민 꾸불림체 */
+@import url("https://websseu.github.io/fontkor/BMEuljiroOraeorae/BMEuljiroOraeorae.css"); /* 배민 을지로오래오래체 */
+@import url("https://websseu.github.io/fontkor/BMEuljiro10yearslater/BMEuljiro10yearslater.css"); /* 배민 을지로10년후체 */
+@import url("https://websseu.github.io/fontkor/BMEuljiro/BMEuljiro.css"); /* 배민 을지로체 */
+@import url("https://websseu.github.io/fontkor/BMHanNaPro/BMHanNaPro.css"); /* 배민 한나체 Pro */
+@import url("https://websseu.github.io/fontkor/BMHanNaAir/BMHanNaAir.css"); /* 배민 한나체 Air */
+@import url("https://websseu.github.io/fontkor/BMKirangHaerang/BMKirangHaerang.css"); /* 배민 기랑해랑체 */
+@import url("https://websseu.github.io/fontkor/BMYeonSung/BMYeonSung.css"); /* 배민 연성체 */
+@import url("https://websseu.github.io/fontkor/BMDohYeon/BMDohYeon.css"); /* 배민 도현체 */
+@import url("https://websseu.github.io/fontkor/BMHanNa11/BMHanNa11.css"); /* 배민 한나는열한살체 */
+@import url("https://websseu.github.io/fontkor/BMJua/BMJua.css"); /* 배민 주아체 */
