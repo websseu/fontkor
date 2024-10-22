@@ -85,18 +85,18 @@ CSS에서 선언할 때도 같은 방식으로 사용합니다.
 나눔스퀘어네오 (NanumSquareNeo) [300, 400, 700, 800, 900]  
 D2coding (D2Coding) [400, 700]  
 마루부리 (MaruBuri) [200, 300, 400, 600, 700]
-<br>
-BMKkubulim (배민 꾸불림체) [400]  
-BMEuljiroOraeorae (배민 을지로오래오래체) [400]  
-BMEuljiro10yearslater (배민 을지로10년후체) [400]  
-BMEuljiro (배민 을지로체) [400]  
-BMHanNaPro (배민 한나체 Pro) [400]  
-BMHanNaAir (배민 한나체 Air) [400]  
-BMKirangHaerang (배민 기랑해랑체) [400]  
-BMYeonSung (배민 연성체) [400]  
-BMDohYeon (배민 도현체) [400]  
-BMHanNa11 (배민 한나는열한살체) [400]  
-BMJua (배민 주아체) [400]
+<br><br>
+배민 꾸불림체 (BMKkubulim) [400]  
+배민 을지로오래오래체 (BMEuljiroOraeorae) [400]  
+배민 을지로10년후체 (BMEuljiro10yearslater) [400]  
+배민 을지로체 (BMEuljiro) [400]  
+배민 한나체 Pro (MHanNaPro) [400]  
+배민 한나체 Air (BMHanNaAir) [400]  
+배민 기랑해랑체 (BMKirangHaerang) [400]  
+배민 연성체 (BMYeonSung) [400]  
+배민 도현체 (BMDohYeon) [400]  
+배민 한나는열한살체 (BMHanNa11) [400]  
+배민 주아체 (MJua) [400]
 
 ## 폰트 두께
 
