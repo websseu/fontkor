@@ -49,6 +49,12 @@
         justify-content: center;
         color: #777;
         font-size: 2vw;
+        transition: 0.3s all;
+        cursor: pointer;
+      }
+      #font__wrap > div:hover {
+        background-color: #fff;
+        color: #000;
       }
     </style>
   </head>
@@ -58,28 +64,33 @@
     </header>
     <main id="main">
       <div id="contents" class="style2">
-        <div id="font__wrap">
-          <div style="font-family: 'NanumBarunGothic'">
-            <span>나눔바른고딕</span>
-          </div>
-          <div style="font-family: 'NanumBarunGothicYetHangul'">
-            <span>나눔바른고딕옛한글</span>
-          </div>
-          <div style="font-family: 'NanumBarunpen'">
-            <span>나눔바른펜</span>
-          </div>
-          <div style="font-family: 'NanumBrush'">
-            <span>나눔손글씨붓</span>
-          </div>
-          <div style="font-family: 'NanumPen'">
-            <span>나눔손글씨펜</span>
-          </div>
-          <div style="font-family: 'NanumSquare'">
-            <span>나눔스퀘어</span>
-          </div>
-        </div>
+        <div id="font__wrap"></div>
       </div>
     </main>
     <footer id="footer"></footer>
+
+    <script>
+      // JSON 데이터 불러오기
+      fetch("https://websseu.github.io/jsonkor/fonts/fonts_kor.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const fontWrap = document.getElementById("font__wrap");
+
+          // JSON 데이터를 기반으로 HTML 요소 동적으로 생성
+          data.forEach((font) => {
+            const fontDiv = document.createElement("div");
+            fontDiv.style.fontFamily = font.title.en; // 글꼴 이름 적용
+            fontDiv.innerHTML = `<span>${font.title.kr}</span>`; // 한국어 제목 적용
+            fontWrap.appendChild(fontDiv);
+
+            // 글꼴 스타일시트를 동적으로 로드
+            const link = document.createElement("link");
+            link.rel = "stylesheet";
+            link.href = font.url;
+            document.head.appendChild(link);
+          });
+        })
+        .catch((error) => console.error("Error:", error));
+    </script>
   </body>
 </html>
