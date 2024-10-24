@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fontkor</title>
+
+    <link rel="stylesheet" href="fontkor.css" />
+    <link rel="stylesheet" href="assets/css/reset.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abel&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      #header {
+        background-color: #eff3f8;
+        backdrop-filter: blur(10px);
+        padding: 12px 20px;
+      }
+      #header a {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: #1974f3;
+        font-family: "Abel", cursive;
+      }
+      #header a img {
+        width: 34px;
+        height: 34px;
+      }
+
+      #main {
+        background-color: #dee4ed;
+        padding-top: 59px;
+      }
+
+      #font__wrap {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 1px;
+      }
+      #font__wrap > div {
+        aspect-ratio: 4 / 3;
+        background-color: #eff3f8;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #777;
+        font-size: 2vw;
+      }
+    </style>
+  </head>
+  <body>
+    <header id="header">
+      <a href="/"><img src="assets/img/logo.svg" alt="로고" />FontKor</a>
+    </header>
+    <main id="main">
+      <div id="contents" class="style2">
+        <div id="font__wrap">
+          <div style="font-family: 'NanumBarunGothic'">
+            <span>나눔바른고딕</span>
+          </div>
+          <div style="font-family: 'NanumBarunGothicYetHangul'">
+            <span>나눔바른고딕옛한글</span>
+          </div>
+          <div style="font-family: 'NanumBarunpen'">
+            <span>나눔바른펜</span>
+          </div>
+          <div style="font-family: 'NanumBrush'">
+            <span>나눔손글씨붓</span>
+          </div>
+          <div style="font-family: 'NanumPen'">
+            <span>나눔손글씨펜</span>
+          </div>
+          <div style="font-family: 'NanumSquare'">
+            <span>나눔스퀘어</span>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer id="footer"></footer>
+  </body>
+</html>
