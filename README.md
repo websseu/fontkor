@@ -96,7 +96,7 @@ D2coding (D2Coding) [400, 700]
 배민 연성체 (BMYeonSung) [400]  
 배민 도현체 (BMDohYeon) [400]  
 배민 한나는열한살체 (BMHanNa11) [400]  
-배민 주아체 (MJua) [400]
+배민 주아체 (BMJua) [400]
 
 ## 폰트 두께
 
