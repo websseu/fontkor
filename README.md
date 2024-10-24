@@ -90,13 +90,13 @@ D2coding (D2Coding) [400, 700]
 배민 을지로오래오래체 (BMEuljiroOraeorae) [400]  
 배민 을지로10년후체 (BMEuljiro10yearslater) [400]  
 배민 을지로체 (BMEuljiro) [400]  
-배민 한나체 Pro (MHanNaPro) [400]  
+배민 한나체 Pro (BMHanNaPro) [400]  
 배민 한나체 Air (BMHanNaAir) [400]  
 배민 기랑해랑체 (BMKirangHaerang) [400]  
 배민 연성체 (BMYeonSung) [400]  
 배민 도현체 (BMDohYeon) [400]  
 배민 한나는열한살체 (BMHanNa11) [400]  
-배민 주아체 (MJua) [400]
+배민 주아체 (BMJua) [400]
 
 ## 폰트 두께
 
